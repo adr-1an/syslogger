@@ -6,7 +6,9 @@
 Install the dependencies using pip or pip3 (if not installed already) :
 <br>
 `pip3 install subprocess`
+<br>
 `pip3 install datetime`
+<br>
 `pip3 install os`
 
 The logs will be saved in ./logs
