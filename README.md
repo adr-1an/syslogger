@@ -1,5 +1,5 @@
-# syslogger
-A python program that will log everything currently running on a Linux computer, and will save the logs for up to 30 days.
+# SysLogger
+*A python program that will log everything currently running on a Linux computer, and will save the logs for up to 30 days.*
 
 HOW TO USE:
 Install the dependencies using pip or pip3 (if not installed already) :
