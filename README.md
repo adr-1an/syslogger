@@ -13,7 +13,7 @@ Install the dependencies using pip or pip3 (if not installed already) :
 
 The logs will be saved in ./logs
 The human-readable converted files will be saved in the directory of the reader scripts.
-Please make sure not to rename any directories or files, as it might break functionality.
+**Please make sure not to rename any directories or files, as it might break functionality.**
 
 === SUPPORT ===
 <br>
