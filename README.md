@@ -11,6 +11,6 @@ The logs will be saved in ./logs
 The human-readable converted files will be saved in the directory of the reader scripts.
 Please make sure not to rename any directories or files, as it might break functionality.
 
-=== SUPPORT ===
+=== SUPPORT ===\n
 Join my Discord server:
 https://discord.io/adriansmp
