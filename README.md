@@ -4,9 +4,10 @@
 **HOW TO USE:**
 <br>
 Install the dependencies using pip or pip3 (if not installed already) :
-pip3 install subprocess
-pip3 install datetime
-pip3 install os
+<br>
+`pip3 install subprocess`
+`pip3 install datetime`
+`pip3 install os`
 
 The logs will be saved in ./logs
 The human-readable converted files will be saved in the directory of the reader scripts.
